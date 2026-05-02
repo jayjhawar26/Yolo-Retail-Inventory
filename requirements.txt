@@ -1,0 +1,20 @@
+# Phase 1: Core Dependencies for Camera Module and Initial Setup
+# Core dependencies
+numpy>=1.19.0
+opencv-python>=4.5.0
+torch>=1.9.0
+torchvision>=0.10.0
+matplotlib>=3.3.0
+pillow>=8.0.0
+tensorboard>=2.4.0
+PyYAML>=5.3.1
+scipy>=1.5.0
+tqdm>=4.50.0
+
+# Additional utilities
+requests>=2.25.0
+Cython>=0.29.0
+# conda install -yc conda-forge scikit-image pycocotools tensorboard
+# conda install -yc spyder-ide spyder-line-profiler
+# conda install -yc pytorch pytorch torchvision
+# conda install -yc conda-forge protobuf numpy && pip install onnx==1.6.0  # https://github.com/onnx/onnx#linux-and-macos
