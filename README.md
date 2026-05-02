@@ -21,11 +21,11 @@ This project aims to build an automated system that can detect and track retail 
 ```
 YOLO-Retail-Inventory-Tracker/
 ├── reference_repo/           # Reference implementation from YOLOv5 retail project
-├── venv/                     # Python virtual environment (do NOT commit)
+├── venv/                     # Python virtual environment
 ├── camera_test.py            # Phase 1: Live camera feed module
 ├── requirements.txt          # Project dependencies
-├── .gitignore               # Git configuration (prevents large files from being committed)
-└── README.md                # This file
+├── .gitignore                # Git configuration
+└── README.md                 # This file
 ```
 
 ## Setup Instructions
